@@ -1,0 +1,14 @@
+stream data by kline for 5-minute intervals
+
+wss://stream.binance.com:9443/ws/btcusdt@kline_5m
+
+
+stream data by trades:
+
+wss://stream.binance.com:9443/ws/btcusdt@trade
+
+
+we will do kline for 5-minute intervals and save it
+via wscat
+
+wscat -c wss://stream.binance.com:9443/ws/btcusdt@kline_5m | tee dataset.txt

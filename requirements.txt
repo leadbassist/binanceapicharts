@@ -1,0 +1,7 @@
+List of the things we need for this project:
+
+python-binance
+TA-Lib
+numpy
+backtrader
+flask

@@ -1,0 +1,2 @@
+API_KEY = 'eexir5agDlCkLBUGuzaO7xPojsGh7w9AGWdqxkWt9sakDFgtQwBQlTpP1Xfjgjtd'
+API_SECRET= 'DrrAjntGSIBwUfZqcvE7SeQ06J1VXguIwA0lhq6RV3FVafh9VZUdTt0G7TwA661s'
